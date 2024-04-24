@@ -1,0 +1,33 @@
+
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+}
+
+h1, h2 {
+    color: #0077cc;
+}
+
+
+#about {
+    background-color: #e6f7ff;
+    padding: 20px;
+}
+
+#videos {
+    background-color: #ccf2ff;
+    padding: 20px;
+}
+
+#gallery {
+    background-color: #b3e0ff;
+    padding: 20px;
+}
+
+
+.tableau-container {
+    width: 100%;
+    height: 400px;
+    margin-top: 20px;
+
+}
